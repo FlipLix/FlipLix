@@ -1,8 +1,9 @@
-# Hey, I'm Shishir.
+# I'm Shishir.
 
 Final-year ECE undergraduate at **Global Academy of Technology (VTU)**, Bangalore.
 
-I build things that sit at the intersection of hardware, software, and the digital business that runs on top of them. Most ECE students stop at hardware; I run e-commerce ops, manage paid acquisition with real budgets, and ship the tools that make all of it work.
+I build things that sit at the intersection of hardware, software, and the digital business that runs on top of them. 
+Run e-commerce ops, paid acquisition management with real budgets, and shipping tools that make all of it work.
 
 ---
 
